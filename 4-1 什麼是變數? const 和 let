@@ -1,0 +1,8 @@
+let age = 18;
+console.log(age);
+age = 20;
+console.log(age);
+
+const year = 2024;
+
+console.log(year);
